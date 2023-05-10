@@ -1,0 +1,88 @@
+{
+  "flights": [
+    {
+      "id": "1",
+      "airline": "American Airlines",
+      "departure_airport": "JFK",
+      "arrival_airport": "LAX",
+      "departure_time": "2023-06-01T08:00:00.000Z",
+      "arrival_time": "2023-06-01T12:00:00.000Z",
+      "duration": "04:00",
+      "price": 250,
+      "seats": [
+        {
+          "id": "1A",
+          "class": "economy",
+          "available": true
+        },
+        {
+          "id": "1B",
+          "class": "economy",
+          "available": true
+        },
+        {
+          "id": "1C",
+          "class": "economy",
+          "available": true
+        },
+        {
+          "id": "1D",
+          "class": "business",
+          "available": true
+        },
+        {
+          "id": "1E",
+          "class": "business",
+          "available": true
+        },
+        {
+          "id": "1F",
+          "class": "business",
+          "available": true
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "airline": "Delta",
+      "departure_airport": "LAX",
+      "arrival_airport": "JFK",
+      "departure_time": "2023-06-05T10:30:00.000Z",
+      "arrival_time": "2023-06-05T17:00:00.000Z",
+      "duration": "06:30",
+      "price": 350,
+      "seats": [
+        {
+          "id": "2A",
+          "class": "economy",
+          "available": true
+        },
+        {
+          "id": "2B",
+          "class": "economy",
+          "available": true
+        },
+        {
+          "id": "2C",
+          "class": "economy",
+          "available": true
+        },
+        {
+          "id": "2D",
+          "class": "business",
+          "available": true
+        },
+        {
+          "id": "2E",
+          "class": "business",
+          "available": true
+        },
+        {
+          "id": "2F",
+          "class": "business",
+          "available": true
+        }
+      ]
+    }
+  ]
+}
