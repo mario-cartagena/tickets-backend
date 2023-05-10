@@ -1,12 +1,23 @@
 {
-    "name": "my-json-server",
-    "version": "1.0.0",
-    "description": "My JSON Server",
-    "main": "index.js",
-    "scripts": {
-      "start": "json-server --watch db.json"
-    },
-    "dependencies": {
-      "json-server": "^0.16.1"
-    }
+  "name": "my-json-server",
+  "version": "1.0.0",
+  "description": "My JSON Server",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db.json"
+  },
+  "dependencies": {
+    "json-server": "^0.16.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mario-cartagena/tickets-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mario-cartagena/tickets-backend/issues"
+  },
+  "homepage": "https://github.com/mario-cartagena/tickets-backend#readme"
 }
