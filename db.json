@@ -2,87 +2,124 @@
   "flights": [
     {
       "id": "1",
-      "airline": "American Airlines",
-      "departure_airport": "JFK",
-      "arrival_airport": "LAX",
-      "departure_time": "2023-06-01T08:00:00.000Z",
-      "arrival_time": "2023-06-01T12:00:00.000Z",
+      "airline": "Avianca",
+      "flight_code": "AA123",
+      "departure_airport": {
+        "name": "Jose Maria Cordoba",
+        "code_iata": "JMC",
+        "city": "Rionegro"
+      },
+      "arrival_airport": {
+        "name": "Aeropuerto Internacional El Edén",
+        "code_iata": "AXM",
+        "city": "Armenia"
+      },
+      "departure_date": "2023-06-01",
+      "departure_time": "08:00:00",
+      "arrival_date": "2023-06-01",
+      "arrival_time": "12:00:00",
       "duration": "04:00",
-      "price": 250,
+      "price": "180.000",
+      "gate": "A8",
+      "baggage": {
+        "one_object": {
+          "price": "30.000"
+        },
+        "hand_baggage" :{
+          "price": "50.000"
+        },
+        "25kg" :{
+          "price": "90.000"
+        }
+      },
+      "scales" :{
+        "0": true,
+        "1": false
+      },
       "seats": [
         {
           "id": "1A",
-          "class": "economy",
-          "available": true
+          "status": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
         },
         {
           "id": "1B",
-          "class": "economy",
-          "available": true
+          "status":{
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
         },
         {
           "id": "1C",
-          "class": "economy",
-          "available": true
+          "status":{
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
         },
         {
           "id": "1D",
-          "class": "business",
-          "available": true
+          "status":{
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
         },
         {
           "id": "1E",
-          "class": "business",
-          "available": true
+          "status":{
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
         },
         {
           "id": "1F",
-          "class": "business",
-          "available": true
-        }
-      ]
-    },
-    {
-      "id": "2",
-      "airline": "Delta",
-      "departure_airport": "LAX",
-      "arrival_airport": "JFK",
-      "departure_time": "2023-06-05T10:30:00.000Z",
-      "arrival_time": "2023-06-05T17:00:00.000Z",
-      "duration": "06:30",
-      "price": 350,
-      "seats": [
-        {
-          "id": "2A",
-          "class": "economy",
-          "available": true
-        },
-        {
-          "id": "2B",
-          "class": "economy",
-          "available": true
-        },
-        {
-          "id": "2C",
-          "class": "economy",
-          "available": true
-        },
-        {
-          "id": "2D",
-          "class": "business",
-          "available": true
-        },
-        {
-          "id": "2E",
-          "class": "business",
-          "available": true
-        },
-        {
-          "id": "2F",
-          "class": "business",
-          "available": true
+          "status": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
         }
       ]
     }
+  ],
+  "booking":[
+    {
+      "id": "1",
+      "passenger_detail": {
+        "name": "",
+        "last_name": "",
+        "phone": "",
+        "email": "",
+        "birthdate":"",
+        "document_type":["CC", "TI", "RC"],
+        "document_number": "",
+        "genre": ["male", "female"]
+      },
+      "departure_flight": "",
+      "arrivale_flight": "",
+      "passengers": {
+        "adults": 0,
+        "children": 0,
+        "baby": 0
+      },
+      "flight_cost": {
+        "flight_price": 0,
+        "baggage_price": 0,
+        "discount_apply": 0,
+        "iva_payment": 0
+      },
+      "optionals_services": {
+        "seat_select": "15.000"
+      },
+      "TUA": "250.000"
+    }
+  ],
+  "buys":[
   ]
 }
