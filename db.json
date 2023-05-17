@@ -92,9 +92,9 @@
       "airline": "LATAM",
       "flight_code": "LA456",
       "departure_airport": {
-        "name": "Aeropuerto Internacional Jose María Cordoba",
-        "code_iata": "MDE",
-        "city": "Rionegro"
+        "name": "Aeropuerto Internacional El Edén",
+        "code_iata": "AXM",
+        "city": "Armenia"
       },
       "arrival_airport": {
         "name": "Aeropuerto Internacional El Dorado",
@@ -178,9 +178,9 @@
       "airline": "Viva Air",
       "flight_code": "VV789",
       "departure_airport": {
-        "name": "Aeropuerto Internacional Jose María Cordoba",
-        "code_iata": "MDE",
-        "city": "Rionegro"
+        "name": "Aeropuerto Internacional El Dorado",
+        "code_iata": "BOG",
+        "city": "Bogotá"
       },
       "arrival_airport": {
         "name": "Aeropuerto Internacional Alfonso Bonilla Aragón",
@@ -264,9 +264,9 @@
       "airline": "Copa Airlines",
       "flight_code": "CM567",
       "departure_airport": {
-        "name": "Aeropuerto Internacional Jose María Cordoba",
-        "code_iata": "MDE",
-        "city": "Rionegro"
+        "name": "Aeropuerto Internacional Matecaña",
+        "code_iata": "PEI",
+        "city": "Pereira"
       },
       "arrival_airport": {
         "name": "Aeropuerto Internacional Tocumen",
