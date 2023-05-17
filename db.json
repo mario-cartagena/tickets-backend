@@ -1,12 +1,12 @@
 {
   "flights": [
     {
-      "id": "1",
+      "id": 1,
       "airline": "Avianca",
       "flight_code": "AA123",
       "departure_airport": {
-        "name": "Jose Maria Cordoba",
-        "code_iata": "JMC",
+        "name": "Aeropueto Internacional Jose María Cordoba",
+        "code_iata": "MDE",
         "city": "Rionegro"
       },
       "arrival_airport": {
@@ -25,14 +25,14 @@
         "one_object": {
           "price": "30.000"
         },
-        "hand_baggage" :{
+        "hand_baggage": {
           "price": "50.000"
         },
-        "25kg" :{
+        "25kg": {
           "price": "90.000"
         }
       },
-      "scales" :{
+      "scales": {
         "0": true,
         "1": false
       },
@@ -47,7 +47,7 @@
         },
         {
           "id": "1B",
-          "status":{
+          "status": {
             "available": true,
             "reserved": false,
             "selected": false
@@ -55,7 +55,7 @@
         },
         {
           "id": "1C",
-          "status":{
+          "status": {
             "available": true,
             "reserved": false,
             "selected": false
@@ -63,7 +63,7 @@
         },
         {
           "id": "1D",
-          "status":{
+          "status": {
             "available": true,
             "reserved": false,
             "selected": false
@@ -71,7 +71,612 @@
         },
         {
           "id": "1E",
-          "status":{
+          "status": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "1F",
+          "status": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "airline": "LATAM",
+      "flight_code": "LA456",
+      "departure_airport": {
+        "name": "Aeropuerto Internacional Jose María Cordoba",
+        "code_iata": "MDE",
+        "city": "Rionegro"
+      },
+      "arrival_airport": {
+        "name": "Aeropuerto Internacional El Dorado",
+        "code_iata": "BOG",
+        "city": "Bogotá"
+      },
+      "departure_date": "2023-07-15",
+      "departure_time": "13:30:00",
+      "arrival_date": "2023-07-15",
+      "arrival_time": "15:45:00",
+      "duration": "02:15",
+      "price": "250.000",
+      "gate": "B3",
+      "baggage": {
+        "one_object": {
+          "price": "30.000"
+        },
+        "hand_baggage": {
+          "price": "50.000"
+        },
+        "25kg": {
+          "price": "90.000"
+        }
+      },
+      "scales": {
+        "0": false
+      },
+      "seats": [
+        {
+          "id": "1A",
+          "status": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "1B",
+          "status": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "1C",
+          "status": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "1D",
+          "status": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "1E",
+          "status": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "1F",
+          "status": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "airline": "Viva Air",
+      "flight_code": "VV789",
+      "departure_airport": {
+        "name": "Aeropuerto Internacional Jose María Cordoba",
+        "code_iata": "MDE",
+        "city": "Rionegro"
+      },
+      "arrival_airport": {
+        "name": "Aeropuerto Internacional Alfonso Bonilla Aragón",
+        "code_iata": "CLO",
+        "city": "Cali"
+      },
+      "departure_date": "2023-08-10",
+      "departure_time": "09:15:00",
+      "arrival_date": "2023-08-10",
+      "arrival_time": "11:20:00",
+      "duration": "02:05",
+      "price": "120.000",
+      "gate": "C2",
+      "baggage": {
+        "one_object": {
+          "price": "30.000"
+        },
+        "hand_baggage": {
+          "price": "50.000"
+        },
+        "25kg": {
+          "price": "90.000"
+        }
+      },
+      "scales": {
+        "0": false
+      },
+      "seats": [
+        {
+          "id": "1A",
+          "status": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "1B",
+          "status": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "1C",
+          "status": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "1D",
+          "status": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "1E",
+          "status": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "1F",
+          "status": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "airline": "Copa Airlines",
+      "flight_code": "CM567",
+      "departure_airport": {
+        "name": "Aeropuerto Internacional Jose María Cordoba",
+        "code_iata": "MDE",
+        "city": "Rionegro"
+      },
+      "arrival_airport": {
+        "name": "Aeropuerto Internacional Tocumen",
+        "code_iata": "PTY",
+        "city": "Panamá"
+      },
+      "departure_date": "2023-09-05",
+      "departure_time": "16:45:00",
+      "arrival_date": "2023-09-05",
+      "arrival_time": "19:30:00",
+      "duration": "02:45",
+      "price": "350.000",
+      "gate": "D6",
+      "baggage": {
+        "one_object": {
+          "price": "30.000"
+        },
+        "hand_baggage": {
+          "price": "50.000"
+        },
+        "25kg": {
+          "price": "90.000"
+        }
+      },
+      "scales": {
+        "0": true,
+        "1": true
+      },
+      "seats": [
+        {
+          "id": "1A",
+          "status": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "1B",
+          "status": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "1C",
+          "status": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "1D",
+          "status": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "1E",
+          "status": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "1F",
+          "status": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "airline": "Delta Air Lines",
+      "flight_code": "DL456",
+      "departure_airport": {
+        "name": "Miami International Airport",
+        "code_iata": "MIA",
+        "city": "Miami"
+      },
+      "arrival_airport": {
+        "name": "Sao Paulo-Guarulhos International Airport",
+        "code_iata": "GRU",
+        "city": "Sao Paulo"
+      },
+      "departure_date": "2023-07-15",
+      "departure_time": "13:30:00",
+      "arrival_date": "2023-07-15",
+      "arrival_time": "20:00:00",
+      "duration": "06:30",
+      "price": "500.000",
+      "gate": "B3",
+      "baggage": {
+        "one_object": {
+          "price": "30.000"
+        },
+        "hand_baggage": {
+          "price": "50.000"
+        },
+        "25kg": {
+          "price": "90.000"
+        }
+      },
+      "scales": {
+        "0": true,
+        "1": true
+      },
+      "seats": [
+        {
+          "id": "1A",
+          "status": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "1B",
+          "status": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "1C",
+          "status": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "1D",
+          "status": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "1E",
+          "status": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "1F",
+          "status": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "airline": "United Airlines",
+      "flight_code": "UA789",
+      "departure_airport": {
+        "name": "John F. Kennedy International Airport",
+        "code_iata": "JFK",
+        "city": "New York"
+      },
+      "arrival_airport": {
+        "name": "Toronto Pearson International Airport",
+        "code_iata": "YYZ",
+        "city": "Toronto"
+      },
+      "departure_date": "2023-08-10",
+      "departure_time": "09:15:00",
+      "arrival_date": "2023-08-10",
+      "arrival_time": "12:30:00",
+      "duration": "03:15",
+      "price": "350.000",
+      "gate": "C2",
+      "baggage": {
+        "one_object": {
+          "price": "30.000"
+        },
+        "hand_baggage": {
+          "price": "50.000"
+        },
+        "25kg": {
+          "price": "90.000"
+        }
+      },
+      "scales": {
+        "0": false
+      },
+      "seats": [
+        {
+          "id": "1A",
+          "status": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "1B",
+          "status": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "1C",
+          "status": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "1D",
+          "status": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "1E",
+          "status": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "1F",
+          "status": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "airline": "Aeroméxico",
+      "flight_code": "AM234",
+      "departure_airport": {
+        "name": "Benito Juárez International Airport",
+        "code_iata": "MEX",
+        "city": "Mexico City"
+      },
+      "arrival_airport": {
+        "name": "Los Angeles International Airport",
+        "code_iata": "LAX",
+        "city": "Los Angeles"
+      },
+      "departure_date": "2023-10-20",
+      "departure_time": "10:00:00",
+      "arrival_date": "2023-10-20",
+      "arrival_time": "12:30:00",
+      "duration": "02:30",
+      "price": "400.000",
+      "gate": "E9",
+      "baggage": {
+        "one_object": {
+          "price": "30.000"
+        },
+        "hand_baggage": {
+          "price": "50.000"
+        },
+        "25kg": {
+          "price": "90.000"
+        }
+      },
+      "scales": {
+        "0": false
+      },
+      "seats": [
+        {
+          "id": "1A",
+          "status": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "1B",
+          "status": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "1C",
+          "status": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "1D",
+          "status": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "1E",
+          "status": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "1F",
+          "status": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "airline": "LATAM Airlines",
+      "flight_code": "LA567",
+      "departure_airport": {
+        "name": "Ezeiza International Airport",
+        "code_iata": "EZE",
+        "city": "Buenos Aires"
+      },
+      "arrival_airport": {
+        "name": "Jorge Chávez International Airport",
+        "code_iata": "LIM",
+        "city": "Lima"
+      },
+      "departure_date": "2023-11-12",
+      "departure_time": "17:20:00",
+      "arrival_date": "2023-11-12",
+      "arrival_time": "22:15:00",
+      "duration": "04:55",
+      "price": "450.000",
+      "gate": "F4",
+      "baggage": {
+        "one_object": {
+          "price": "30.000"
+        },
+        "hand_baggage": {
+          "price": "50.000"
+        },
+        "25kg": {
+          "price": "90.000"
+        }
+      },
+      "scales": {
+        "0": true,
+        "1": false
+      },
+      "seats": [
+        {
+          "id": "1A",
+          "status": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "1B",
+          "status": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "1C",
+          "status": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "1D",
+          "status": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "1E",
+          "status": {
             "available": true,
             "reserved": false,
             "selected": false
@@ -88,7 +693,7 @@
       ]
     }
   ],
-  "booking":[
+  "booking": [
     {
       "id": "1",
       "passenger_detail": {
@@ -96,10 +701,17 @@
         "last_name": "",
         "phone": "",
         "email": "",
-        "birthdate":"",
-        "document_type":["CC", "TI", "RC"],
+        "birthdate": "",
+        "document_type": [
+          "CC",
+          "TI",
+          "RC"
+        ],
         "document_number": "",
-        "genre": ["male", "female"]
+        "genre": [
+          "male",
+          "female"
+        ]
       },
       "departure_flight": "",
       "arrivale_flight": "",
@@ -120,6 +732,5 @@
       "TUA": "250.000"
     }
   ],
-  "buys":[
-  ]
+  "buys": []
 }
