@@ -84,6 +84,438 @@
             "reserved": false,
             "selected": false
           }
+        },
+        {
+          "id": "2A",
+          "status": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "2B",
+          "status": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "2C",
+          "status": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "2D",
+          "status": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "2E",
+          "status": {
+            "available": false,
+            "reserved": true,
+            "selected": false
+          }
+        },
+        {
+          "id": "2F",
+          "status": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "3A",
+          "status": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "3B",
+          "status": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "3C",
+          "status": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "3D",
+          "status": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "3E",
+          "status": {
+            "available": false,
+            "reserved": false,
+            "selected": true
+          }
+        },
+        {
+          "id": "3F",
+          "status": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "4A",
+          "status": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "4B",
+          "status": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "4C",
+          "status": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "4D",
+          "status": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "4E",
+          "status": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "4F",
+          "status": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "5A",
+          "status": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "5B",
+          "status": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "5C",
+          "status": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "5D",
+          "status": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "5E",
+          "status": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "5F",
+          "status": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "6A",
+          "status": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "6B",
+          "status": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "6C",
+          "status": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "6D",
+          "status": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "6E",
+          "status": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "6F",
+          "status": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "7A",
+          "status": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "7B",
+          "status": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "7C",
+          "status": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "7D",
+          "status": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "7E",
+          "status": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "7F",
+          "status": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "8A",
+          "status": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "8B",
+          "status": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "8C",
+          "status": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "8D",
+          "status": {
+            "available": false,
+            "reserved": false,
+            "selected": true
+          }
+        },
+        {
+          "id": "8E",
+          "status": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "8F",
+          "status": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "9A",
+          "status": {
+            "available": false,
+            "reserved": false,
+            "selected": true
+          }
+        },
+        {
+          "id": "9B",
+          "status": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "9C",
+          "status": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "9D",
+          "status": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "9E",
+          "status": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "9F",
+          "status": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "10A",
+          "status": {
+            "available": false,
+            "reserved": false,
+            "selected": true
+          }
+        },
+        {
+          "id": "10B",
+          "status": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "10C",
+          "status": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "10D",
+          "status": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "10E",
+          "status": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "10F",
+          "status": {
+            "available": false,
+            "reserved": false,
+            "selected": true
+          }
         }
       ]
     },
