@@ -144,8 +144,8 @@
         {
           "id": "3B",
           "status": {
-            "available": true,
-            "reserved": false,
+            "available": false,
+            "reserved": true,
             "selected": false
           }
         },
@@ -168,9 +168,9 @@
         {
           "id": "3E",
           "status": {
-            "available": false,
+            "available": true,
             "reserved": false,
-            "selected": true
+            "selected": false
           }
         },
         {
@@ -216,8 +216,8 @@
         {
           "id": "4E",
           "status": {
-            "available": true,
-            "reserved": false,
+            "available": false,
+            "reserved": true,
             "selected": false
           }
         },
@@ -264,8 +264,8 @@
         {
           "id": "5E",
           "status": {
-            "available": true,
-            "reserved": false,
+            "available": false,
+            "reserved": true,
             "selected": false
           }
         },
@@ -304,8 +304,8 @@
         {
           "id": "6D",
           "status": {
-            "available": true,
-            "reserved": false,
+            "available": false,
+            "reserved": true,
             "selected": false
           }
         },
@@ -400,9 +400,9 @@
         {
           "id": "8D",
           "status": {
-            "available": false,
+            "available": true,
             "reserved": false,
-            "selected": true
+            "selected": false
           }
         },
         {
@@ -424,9 +424,9 @@
         {
           "id": "9A",
           "status": {
-            "available": false,
+            "available": true,
             "reserved": false,
-            "selected": true
+            "selected": false
           }
         },
         {
@@ -473,8 +473,8 @@
           "id": "10A",
           "status": {
             "available": false,
-            "reserved": false,
-            "selected": true
+            "reserved": true,
+            "selected": false
           }
         },
         {
@@ -504,17 +504,17 @@
         {
           "id": "10E",
           "status": {
-            "available": true,
-            "reserved": false,
+            "available": false,
+            "reserved": true,
             "selected": false
           }
         },
         {
           "id": "10F",
           "status": {
-            "available": false,
+            "available": true,
             "reserved": false,
-            "selected": true
+            "selected": false
           }
         }
       ]
