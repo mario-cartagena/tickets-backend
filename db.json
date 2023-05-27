@@ -15,10 +15,10 @@
         "city": "Armenia"
       },
       "departure_date": "2023-06-01",
-      "departure_time": "08:00:00",
+      "departure_time": "08:00 AM",
       "arrival_date": "2023-06-01",
-      "arrival_time": "12:00:00",
-      "duration": "04:00",
+      "arrival_time": "12:00 PM",
+      "duration": "4h",
       "price": "180.000",
       "gate": "A8",
       "baggage": {
@@ -531,10 +531,10 @@
         "city": "Bogotá"
       },
       "departure_date": "2023-07-15",
-      "departure_time": "13:30:00",
+      "departure_time": "01:00 PM",
       "arrival_date": "2023-07-15",
-      "arrival_time": "15:45:00",
-      "duration": "02:15",
+      "arrival_time": "03:45 PM",
+      "duration": "2h 45min",
       "price": "250.000",
       "gate": "B3",
       "baggage": {
@@ -615,10 +615,10 @@
         "city": "Cali"
       },
       "departure_date": "2023-08-10",
-      "departure_time": "09:15:00",
+      "departure_time": "09:15 AM",
       "arrival_date": "2023-08-10",
-      "arrival_time": "11:20:00",
-      "duration": "02:05",
+      "arrival_time": "11:20 AM",
+      "duration": "2h 5min",
       "price": "120.000",
       "gate": "C2",
       "baggage": {
@@ -632,7 +632,7 @@
           "price": "90.000"
         }
       },
-      "scales": 1,
+      "scales": 0,
       "seats": [
         {
           "id": "1A",
@@ -699,10 +699,10 @@
         "city": "Panamá"
       },
       "departure_date": "2023-09-05",
-      "departure_time": "16:45:00",
+      "departure_time": "04:45 PM",
       "arrival_date": "2023-09-05",
-      "arrival_time": "19:30:00",
-      "duration": "02:45",
+      "arrival_time": "06:15 PM",
+      "duration": "1h 30min",
       "price": "350.000",
       "gate": "D6",
       "baggage": {
@@ -783,10 +783,10 @@
         "city": "Sao Paulo"
       },
       "departure_date": "2023-07-15",
-      "departure_time": "13:30:00",
+      "departure_time": "01:30 PM",
       "arrival_date": "2023-07-15",
-      "arrival_time": "20:00:00",
-      "duration": "06:30",
+      "arrival_time": "11:50 PM",
+      "duration": "9h 20min",
       "price": "500.000",
       "gate": "B3",
       "baggage": {
@@ -800,7 +800,7 @@
           "price": "90.000"
         }
       },
-      "scales": 2,
+      "scales": 1,
       "seats": [
         {
           "id": "1A",
@@ -867,10 +867,10 @@
         "city": "Toronto"
       },
       "departure_date": "2023-08-10",
-      "departure_time": "09:15:00",
+      "departure_time": "09:15 AM",
       "arrival_date": "2023-08-10",
-      "arrival_time": "12:30:00",
-      "duration": "03:15",
+      "arrival_time": "12:30 PM",
+      "duration": "3h 15min",
       "price": "350.000",
       "gate": "C2",
       "baggage": {
@@ -943,7 +943,7 @@
       "departure_airport": {
         "name": "Benito Juárez International Airport",
         "code_iata": "MEX",
-        "city": "Mexico City"
+        "city": "Ciudad de México"
       },
       "arrival_airport": {
         "name": "Los Angeles International Airport",
@@ -951,10 +951,10 @@
         "city": "Los Angeles"
       },
       "departure_date": "2023-10-20",
-      "departure_time": "10:00:00",
+      "departure_time": "10:00 AM",
       "arrival_date": "2023-10-20",
-      "arrival_time": "12:30:00",
-      "duration": "02:30",
+      "arrival_time": "03:55 PM",
+      "duration": "5h 55min",
       "price": "400.000",
       "gate": "E9",
       "baggage": {
@@ -1035,10 +1035,10 @@
         "city": "Lima"
       },
       "departure_date": "2023-11-12",
-      "departure_time": "17:20:00",
+      "departure_time": "05:20 PM",
       "arrival_date": "2023-11-12",
-      "arrival_time": "22:15:00",
-      "duration": "04:55",
+      "arrival_time": "10:15 PM",
+      "duration": "4h 55min",
       "price": "450.000",
       "gate": "F4",
       "baggage": {
@@ -1053,6 +1053,90 @@
         }
       },
       "scales": 0,
+      "seats": [
+        {
+          "id": "1A",
+          "status": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "1B",
+          "status": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "1C",
+          "status": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "1D",
+          "status": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "1E",
+          "status": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "1F",
+          "status": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "airline": "Viva Air",
+      "flight_code": "VV789",
+      "departure_airport": {
+        "name": "Aeropuerto Internacional Alfonso Bonilla Aragón",
+        "code_iata": "CLO",
+        "city": "Cali"
+      },
+      "arrival_airport": {
+        "name": "Aeropuerto Internacional El Dorado",
+        "code_iata": "BOG",
+        "city": "Bogotá"
+      },
+      "departure_date": "2023-08-30",
+      "departure_time": "08:05 PM",
+      "arrival_date": "2023-08-10",
+      "arrival_time": "12:05 AM",
+      "duration": "4h 5min",
+      "price": "120.000",
+      "gate": "C2",
+      "baggage": {
+        "one_object": {
+          "price": "30.000"
+        },
+        "hand_baggage": {
+          "price": "50.000"
+        },
+        "25kg": {
+          "price": "90.000"
+        }
+      },
+      "scales": 1,
       "seats": [
         {
           "id": "1A",
