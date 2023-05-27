@@ -32,10 +32,7 @@
           "price": "90.000"
         }
       },
-      "scales": {
-        "0": true,
-        "1": false
-      },
+      "scales": 0,
       "seats": [
         {
           "id": "1A",
@@ -119,9 +116,7 @@
           "price": "90.000"
         }
       },
-      "scales": {
-        "0": false
-      },
+      "scales": 0,
       "seats": [
         {
           "id": "1A",
@@ -205,9 +200,7 @@
           "price": "90.000"
         }
       },
-      "scales": {
-        "0": false
-      },
+      "scales": 1,
       "seats": [
         {
           "id": "1A",
@@ -291,10 +284,7 @@
           "price": "90.000"
         }
       },
-      "scales": {
-        "0": true,
-        "1": true
-      },
+      "scales": 0,
       "seats": [
         {
           "id": "1A",
@@ -378,10 +368,7 @@
           "price": "90.000"
         }
       },
-      "scales": {
-        "0": true,
-        "1": true
-      },
+      "scales": 2,
       "seats": [
         {
           "id": "1A",
@@ -465,9 +452,7 @@
           "price": "90.000"
         }
       },
-      "scales": {
-        "0": false
-      },
+      "scales": 1,
       "seats": [
         {
           "id": "1A",
@@ -551,9 +536,7 @@
           "price": "90.000"
         }
       },
-      "scales": {
-        "0": false
-      },
+      "scales": 1,
       "seats": [
         {
           "id": "1A",
@@ -637,10 +620,7 @@
           "price": "90.000"
         }
       },
-      "scales": {
-        "0": true,
-        "1": false
-      },
+      "scales": 0,
       "seats": [
         {
           "id": "1A",
