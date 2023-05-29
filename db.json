@@ -19,7 +19,7 @@
       "arrival_date": "2023-06-01",
       "arrival_time": "12:00 PM",
       "duration": "4h",
-      "price": "180.000",
+      "price": 180000,
       "gate": "A8",
       "baggage": {
         "one_object": {
@@ -535,7 +535,7 @@
       "arrival_date": "2023-07-15",
       "arrival_time": "03:45 PM",
       "duration": "2h 45min",
-      "price": "250.000",
+      "price": 250000,
       "gate": "B3",
       "baggage": {
         "one_object": {
@@ -619,7 +619,7 @@
       "arrival_date": "2023-08-10",
       "arrival_time": "11:20 AM",
       "duration": "2h 5min",
-      "price": "120.000",
+      "price": 120000,
       "gate": "C2",
       "baggage": {
         "one_object": {
@@ -703,7 +703,7 @@
       "arrival_date": "2023-09-05",
       "arrival_time": "06:15 PM",
       "duration": "1h 30min",
-      "price": "350.000",
+      "price": 350000,
       "gate": "D6",
       "baggage": {
         "one_object": {
@@ -787,7 +787,7 @@
       "arrival_date": "2023-07-15",
       "arrival_time": "11:50 PM",
       "duration": "9h 20min",
-      "price": "500.000",
+      "price": 500000,
       "gate": "B3",
       "baggage": {
         "one_object": {
@@ -871,7 +871,7 @@
       "arrival_date": "2023-08-10",
       "arrival_time": "12:30 PM",
       "duration": "3h 15min",
-      "price": "350.000",
+      "price": 350000,
       "gate": "C2",
       "baggage": {
         "one_object": {
@@ -955,7 +955,7 @@
       "arrival_date": "2023-10-20",
       "arrival_time": "03:55 PM",
       "duration": "5h 55min",
-      "price": "400.000",
+      "price": 400000,
       "gate": "E9",
       "baggage": {
         "one_object": {
@@ -1039,7 +1039,7 @@
       "arrival_date": "2023-11-12",
       "arrival_time": "10:15 PM",
       "duration": "4h 55min",
-      "price": "450.000",
+      "price": 450000,
       "gate": "F4",
       "baggage": {
         "one_object": {
@@ -1123,7 +1123,7 @@
       "arrival_date": "2023-08-10",
       "arrival_time": "12:05 AM",
       "duration": "4h 5min",
-      "price": "120.000",
+      "price": 120000,
       "gate": "C2",
       "baggage": {
         "one_object": {
