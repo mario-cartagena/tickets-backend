@@ -4646,43 +4646,7 @@
     }
   ],
   "booking": [
-    {
-      "id": "1",
-      "passenger_detail": {
-        "name": "",
-        "last_name": "",
-        "phone": "",
-        "email": "",
-        "birthdate": "",
-        "document_type": [
-          "CC",
-          "TI",
-          "RC"
-        ],
-        "document_number": "",
-        "genre": [
-          "male",
-          "female"
-        ]
-      },
-      "departure_flight": "",
-      "arrivale_flight": "",
-      "passengers": {
-        "adults": 0,
-        "children": 0,
-        "baby": 0
-      },
-      "flight_cost": {
-        "flight_price": 0,
-        "baggage_price": 0,
-        "discount_apply": 0,
-        "iva_payment": 0
-      },
-      "optionals_services": {
-        "seat_select": "15.000"
-      },
-      "TUA": "250.000"
-    }
+   
   ],
   "buys": []
 }
