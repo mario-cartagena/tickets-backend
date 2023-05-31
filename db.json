@@ -4131,7 +4131,7 @@
     {
       "id": 9,
       "airline": "Viva Air",
-      "flight_code": "VV789",
+      "flight_code": "VV890",
       "departure_airport": {
         "name": "Aeropuerto Internacional Alfonso Bonilla Aragón",
         "code_iata": "CLO",
@@ -4144,11 +4144,11 @@
       },
       "departure_date": "2023-08-30",
       "departure_time": "08:05 PM",
-      "arrival_date": "2023-08-10",
+      "arrival_date": "2023-08-30",
       "arrival_time": "12:05 AM",
       "duration": "4h 5min",
       "price": 120000,
-      "gate": "C2",
+      "gate": "A2",
       "baggage": {
         "one_object": {
           "price": "30.000"
